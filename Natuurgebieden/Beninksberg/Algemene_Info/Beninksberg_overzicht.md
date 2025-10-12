@@ -7,14 +7,19 @@
 
 **Ligging (gemeente, coördinaten)**  
 - Gemeente Holsbeek (Vlaams-Brabant), ten noorden van Kessel-Lo en ten zuiden van Kortrijk-Dutsel  
-- Coördinaten (centraal punt): 50.908° N, 4.759° E  
+- Coördinaten (centraal punt): 50.908° N, 4.759° E 
+- Onderdeel van https://natuurenbos.be/projecten/life-harwin
 - Onderdeel van het Natura 2000-gebied “Valleien van de Winge en de Motte met valleihellingen” (BE2400015)
+
+**Parkeren**
+- Ingang: Parking hoek Blauwmolenstraat - Klein-Vlasselaar, 3221 Holsbeek
 
 **Oppervlakte**  
 - Ongeveer 24 hectare (natuurreservaat Beninksberg + aansluitende percelen Natuurpunt)  
 - Omringd door landbouwgebied en kleinere bosfragmenten
 
 **Beheerder**  
+- Boswachter: Gert Verbruggen
 - Natuurpunt Leuven (afdeling Holsbeek – Lubbeek)  
 - In samenwerking met Agentschap Natuur en Bos (ANB)
 
@@ -99,16 +104,16 @@
 
 ## Beheermaatregelen
 
-| Onderdeel | Maatregel | Doel / Verwacht effect | Bronnen |
-|------------|------------|------------------------|----------|
+| Onderdeel | Maatregel                                                                   | Doel / Verwacht effect | Bronnen |
+|------------|-----------------------------------------------------------------------------|------------------------|----------|
 | **Graslanden** | Jaarlijks maaien na 15 juli (soms tweemaal per jaar) met afvoer van maaisel | Voorkomen van verruiging; stimuleren van soortenrijke kalkvegetatie | ANB-beheerplan Vlaams-Brabant; Natuurpunt Leuven |
-| **Begrazing** | Beperkte schapenbegrazing in nazomer en herfst | Creëren van variatie in vegetatiehoogte; natuurlijke zaadverspreiding | Natuurpunt – Richtlijnen voor begrazing kalkgraslanden |
-| **Struweelbeheer** | Gedeeltelijk verwijderen van braam, sleedoorn en vlier aan zuidhelling | Open karakter behouden; beschermen van lichtminnende flora | Beheerplan Beninksberg (Natuurpunt, 2021) |
-| **Poelen en kwelzones** | Regelmatig schonen en openhouden, geen bemesting | Behoud van amfibieënbiotoop en vochtige flora | Natuurpunt Handleiding Poelenbeheer, 2020 |
-| **Holle wegen** | Stabiliseren tegen erosie, niet verharden | Waterafvoer behouden; microklimaat voor schaduwvegetatie | Provincie Vlaams-Brabant – Landschapsatlas Holle Wegen |
-| **Bosranden** | Gefaseerd kappen en terugzetten van houtwal | Bevorderen van structuurvariatie en overgangsvegetatie | ANB-bosbeheerplan; Ecopedia.be – bosrandbeheer |
-| **Monitoring** | Jaarlijkse inventarisatie flora, insecten en vlinders | Opvolgen van trends en effect van beheer | Natuurpunt Studie & Meetnettenproject Vlaanderen |
-| **Publiekswerking** | Wandelpaden en infoborden | Educatie en draagvlak voor natuurbeheer | Natuurpunt Educatie & Natuuracademie |
+| **Begrazing** | Beperkte paardenbegrazing in nazomer en herfst                              | Creëren van variatie in vegetatiehoogte; natuurlijke zaadverspreiding | Natuurpunt – Richtlijnen voor begrazing kalkgraslanden |
+| **Struweelbeheer** | Gedeeltelijk verwijderen van braam, sleedoorn en vlier aan zuidhelling      | Open karakter behouden; beschermen van lichtminnende flora | Beheerplan Beninksberg (Natuurpunt, 2021) |
+| **Poelen en kwelzones** | Regelmatig schonen en openhouden, geen bemesting                            | Behoud van amfibieënbiotoop en vochtige flora | Natuurpunt Handleiding Poelenbeheer, 2020 |
+| **Holle wegen** | Stabiliseren tegen erosie, niet verharden                                   | Waterafvoer behouden; microklimaat voor schaduwvegetatie | Provincie Vlaams-Brabant – Landschapsatlas Holle Wegen |
+| **Bosranden** | Gefaseerd kappen en terugzetten van houtwal                                 | Bevorderen van structuurvariatie en overgangsvegetatie | ANB-bosbeheerplan; Ecopedia.be – bosrandbeheer |
+| **Monitoring** | Jaarlijkse inventarisatie flora, insecten en vlinders                       | Opvolgen van trends en effect van beheer | Natuurpunt Studie & Meetnettenproject Vlaanderen |
+| **Publiekswerking** | Wandelpaden en infoborden                                                   | Educatie en draagvlak voor natuurbeheer | Natuurpunt Educatie & Natuuracademie |
 
 ---
 
