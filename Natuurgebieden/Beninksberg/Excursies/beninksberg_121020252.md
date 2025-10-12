@@ -16,7 +16,7 @@ wandeling 12_10_2025
         * locatie: zuidwesten
     * Herfstgentiaan
         * locatie: eerder op de top (eventueel zuiden top)
-    * Teunisbloem - Bele teunisbloem - Oenothera oehikersii
+    * Teunisbloem - Bleke teunisbloem - Oenothera oehikersii
         * locatie: zuidkant (rand van het bos, kleine patch met meerde teunisbloemen)
     * Jakobskruid - mogelijk mismatch van Obsidentify
     * Kruisspin
