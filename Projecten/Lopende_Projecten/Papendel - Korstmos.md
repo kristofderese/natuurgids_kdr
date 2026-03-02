@@ -1,7 +1,7 @@
 # Project: De Lichenen van Papendel
 
 ## Geografische en Ecologische Context
-Hieronder volgt de beschrijving opgebouwd volgens de parameters van de Biologische Waarderingskaart (BWK) en de lokale geologie:
+
 
 ### 1. Geologie en Pedologie (Bodemkunde)
 Papendel ligt in de overgangszone tussen de **zandige Kempen** en het **Hageland**.
@@ -45,60 +45,59 @@ Papendel wordt beheerd door Natuurpunt. Het beheerplan focust op:
 
 ## 1. Poedervormig (Leprose)
 * **Gewone poederkorst** (*Lepraria incana*)
-    * **Kenmerk:** Mintgroen poeder in droge nissen/luwte.
-* **[NIEUW] Gele poederkorst** (*Chrysothrix candelaris*)
-    * **Kenmerk:** Opvallend goudgeel poeder op diepe eikenschors.
-* **[NIEUW] Witte poederkorst** (*Phlyctis argena*)
-    * **Kenmerk:** Zilvergrijze vlekken die lijken op uitgesmeerd krijt.
-
-## 2. Korstvormig (Crustose)
-* **Bleekgroene schotelkorst** (*Lecanora conizaeoides*)
-    * **Kenmerk:** Korrelige grijze korst met kleine schoteltjes.
-* **[NIEUW] Kleine schotelkorst** (*Lecanora dispersa*)
-    * **Kenmerk:** Witte schoteltjes met bruin midden, vaak op beton van paaltjes.
-* **[NIEUW] Gewone schriftmos** (*Graphis scripta*)
-    * **Kenmerk:** Zwarte lijntjes die lijken op hiërogliefen (op gladde bast).
-
-## 3. Bladvormig (Foliose)
-* **Groot dooiermos** (*Xanthoria parietina*) - Oranje; stikstofindicator.
-* **Gewoon schildmos** (*Parmelia sulcata*) - Blauwgrijs met wit netwerk.
-* **Groot schildmos** (*Punctelia punctilla*) - Grijs met witte stippen.
-* **Bosschildmos** (*Flavoparmelia caperata*) - Grote, geelgroene,# Korstmossen Papendel: Overzicht & Gidsinstructies
-
-## 1. Poedervormig (Leprose)
-* **Gewone poederkorst** (*Lepraria incana*)
     * **Kenmerk:** Mintgroen poeder.
     * **Zoektocht:** Kijk in de 'regenschaduw' (droge nissen) aan de noordzijde van oude eiken.
 * **[NIEUW] Gele poederkorst** (*Chrysothrix candelaris*)
     * **Kenmerk:** Fel goudgeel 'kerriepoeder'.
     * **Zoektocht:** Zoek in de diepste barsten van zeer oude eikenschors.
+* **[NIEUW] Witte poederkorst** (*Phlyctis argena*)
+    * **Kenmerk:** Zilvergrijze vlekken die lijken op uitgesmeerd krijt.
+    * **Zoektocht:** Zoek op de gladde bast van loofbomen, vaak in iets lichtere bosdelen.
 
 ## 2. Korstvormig (Crustose)
 * **Bleekgroene schotelkorst** (*Lecanora conizaeoides*)
-    * **Kenmerk:** Grijze korst met kleine schoteltjes.
-    * **Zoektocht:** Algemeen op zure schors en hout; zeer resistent.
+    * **Kenmerk:** Korrelige grijze korst met kleine schoteltjes.
+    * **Zoektocht:** Algemeen op zure schors en dood hout; zeer resistent tegen vervuiling.
+* **[NIEUW] Kleine schotelkorst** (*Lecanora dispersa*)
+    * **Kenmerk:** Witte schoteltjes met bruin midden.
+    * **Zoektocht:** Vaak op kalkrijk substraat zoals het beton van weidepaaltjes.
 * **[NIEUW] Gewone schriftmos** (*Graphis scripta*)
-    * **Kenmerk:** Zwarte lijntjes als hiërogliefen.
+    * **Kenmerk:** Zwarte lijntjes die lijken op hiërogliefen.
     * **Zoektocht:** Zoek op bomen met gladde bast (jonge Es, Hazelaar) in de vochtige bosdelen.
 
 ## 3. Bladvormig (Foliose)
-* **Groot dooiermos** (*Xanthoria parietina*) - Oranje; zoek op zonnige plekken/weidepalen.
-* **Schildmossen (Gewoon, Groot, Bos)**
-    * **Kenmerk:** Bladvormige lobben. Gebruik loep voor witte netwerken of stippen.
-    * **Zoektocht:** Op ooghoogte op vrijstaande stammen langs het pad.
+* **Groot dooiermos** (*Xanthoria parietina*)
+    * **Kenmerk:** Oranje bladvormige lobben; stikstofindicator.
+    * **Zoektocht:** Zoek op de meest zonnige kant van boomstammen of op weidepalen.
+* **Gewoon schildmos** (*Parmelia sulcata*)
+    * **Kenmerk:** Blauwgrijs met een fijn wit netwerk (pseudocyphellen).
+    * **Zoektocht:** Op ooghoogte op vrijstaande stammen aan de rand van het pad.
+* **Groot schildmos** (*Punctelia punctilla*)
+    * **Kenmerk:** Grijs met kleine witte stipjes.
+    * **Zoektocht:** Op de stam van loofbomen, vaak samen met andere schildmossen.
+* **Bosschildmos** (*Flavoparmelia caperata*)
+    * **Kenmerk:** Grote, geelgroene, rimpelige lobben.
+    * **Zoektocht:** Zoek naar grote 'plakkaten' op de schors van eiken in oudere bospercelen.
 * **[NIEUW] Kapjesvingermos** (*Physcia adscendens*)
-    * **Kenmerk:** Grijze lobjes met lange 'wimpers'.
+    * **Kenmerk:** Grijze lobjes met lange 'wimpers' (ciliën).
     * **Zoektocht:** Op takken en houten afsluitingen aan de bosrand.
+* **[NIEUW] Gewoon schaduwmos** (*Phaeophyscia orbicularis*)
+    * **Kenmerk:** Donkergrijs/bruin met ronde hoopjes korrels in het midden.
+    * **Zoektocht:** Op voedselrijke schors, vaak lager op de stam bij de wegkant.
 
 ## 4. Struikvormig (Fruticose)
-* **Heidestaartje** (*Cladonia floerkeana*) - [NIEUW/TE ZOEKEN]
+* **Heidestaartje** (*Cladonia floerkeana*)
     * **Kenmerk:** Grijze staafjes met rode knopjes.
-* **Bekermossen** (*Cladonia sp.*) - [NIEUW/TE ZOEKEN]
-    * **Kenmerk:** Kleine groene bekertjes op de grond of rottend hout.
+    * **Zoektocht:** Op open, schrale zandgrond of op de kopse kant van vermolmde boomstronken.
+* **Bekermossen** (*Cladonia sp.*)
+    * **Kenmerk:** Kleine groene bekertjes.
+    * **Zoektocht:** Op de bodem tussen mossen of op zeer rot hout.
 * **[NIEUW] Eikenmos** (*Evernia prunastri*)
-    * **Kenmerk:** Lintvormig; bovenkant groen, onderkant wit. Zeer algemeen op eik.
+    * **Kenmerk:** Lintvormig; bovenkant groen, onderkant wit.
+    * **Zoektocht:** Op de stammen en takken van vrijstaande eiken; waait vaak op de grond na storm.
 * **[NIEUW] Melig takmos** (*Ramalina farinacea*)
     * **Kenmerk:** Smalle, stijve grijze lintjes met ovale korrelhoopjes op de rand.
+    * **Zoektocht:** Zoek op dunnere takken van loofbomen die veel wind en licht vangen.
 
 ## 5. Gids-methodiek & Interactie
 * **De Loep-test:** Laat deelnemers het verschil zoeken tussen een echt mos (met blaadjes, zoals *Klauwtjesmos*) en een korstmos (zonder blaadjes).
