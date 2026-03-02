@@ -1,3 +1,58 @@
+
+### 1. De A4-fotobundel (Je visuele bewijslast)
+
+Omdat korstmossen klein zijn, moet je ze "uitvergroten" voor je publiek.
+
+* **Stap 1: Selectie.** Zoek online naar high-res afbeeldingen van:
+* **De Lasagne-opbouw:** Een schema van een dwarsdoorsnede (bovenste schors, algenlaag, merg, onderste schors).
+* **Rizijnen:** Een macrofoto van de onderkant van een schildmos (de "haartjes").
+* **Schriftmos:** De foto met de zwarte "hiërogliefen".
+* **Dooiermos:** Een detailfoto van de oranje apothecia (schoteltjes).
+
+
+* **Stap 2: Printen.** Print ze op stevig A4-papier. Gebruik kleur, want de grijze/groene/oranje nuances zijn cruciaal.
+* **Stap 3: Lamineren of Hoesjes.** Omdat het in Papendel vaak vochtig is, steek je elke print in een plastic insteekhoesje (opening naar onderen gericht, zodat regen er niet in loopt) of laat je ze lamineren.
+* **Stap 4: Ringmap.** Doe ze in een eenvoudige ringmap die je makkelijk kunt openslaan en rondgeven.
+
+---
+
+### 2. De Vensterkijker (Focus-tool)
+
+Dit is een fantastische werkvorm om mensen te dwingen écht naar de details te kijken in plaats van naar "de groene waas op de boom".
+
+* **Stap 1: Materiaal.** Neem wit, stevig karton (bijvoorbeeld de achterkant van een tekenblok of dikker printpapier). Wit geeft het beste contrast met de natuurlijke kleuren.
+* **Stap 2: Snijden.** Snij kaartjes ter grootte van een briefkaart (ca. 10x15 cm).
+* **Stap 3: Het "Venster".** Teken in het exacte midden een vierkantje van **2x2 cm**. Snij dit vierkantje er voorzichtig uit met een breekmesje.
+* **Stap 4: Gebruik.** Deel deze kaartjes uit aan je groep. Vraag hen om het kaartje tegen de stam te houden en door het venstertje te kijken.
+* *Gidstip:* "Wat zie je in jouw venster? Is het een landschap? Zie je schoteltjes? Zie je poeder?"
+
+
+
+---
+
+### 3. Het "Spiekbriefje" (Lijstje met namen)
+
+Niemand verwacht dat je 20 Latijnse namen uit je hoofd kent onder stress. Een professionele gids heeft een geheugensteuntje.
+
+* **Stap 1: Tabel maken.** Maak een simpel lijstje in drie kolommen:
+| Nederlandse naam | Wetenschappelijke naam | Kenmerk (voor jezelf) |
+| :--- | :--- | :--- |
+| Schriftmos | *Graphis scripta* | Zwarte streepjes / gladde bast |
+| Groot dooiermos | *Xanthoria parietina* | Oranje / stikstof / zon |
+| Eikenmos | *Evernia prunastri* | Lintvormig / wit van onder |
+* **Stap 2: Bevestiging.** Plak dit lijstje op de **achterkant van je ringmap** of op de binnenkant van je Vensterkijker. Zo kun je het onopvallend raadplegen terwijl je naar de boom wijst.
+
+---
+
+### Wat moet je nu nog doen?
+
+1. **Printen:** Doe dit morgen, zodat je niet zaterdagochtend zonder inkt zit.
+2. **Karton snijden:** Maak er een stuk of 5 à 10, zodat mensen in kleine groepjes kunnen kijken.
+3. **Tas klaarzetten:** Doe je loep, je plantenspuit en je witte zakdoek (voor de spons-proef) er alvast in.
+
+
+
+
 # Project: De Lichenen van Papendel
 
 ### 1. Kernconcept: Wat is een korstmos?
@@ -83,6 +138,26 @@ Absorbtie - Geen beschermende waslaag - volledige opp is exposed
 
 * **De Spons-proef:** Gebruik de witte zakdoek om de luchtkwaliteit tastbaar te maken.
 * **Toekomst:** Vertel dat deze pioniers op de brug de weg vrijmaken voor grotere mossen over 10-20 jaar.
+
+
+
+| **Nederlandse naam** | **Wetenschappelijke naam** | **Kenmerk (voor jezelf)** | **Locatie / Waar kijken?** |
+| :--- | :--- | :--- | :--- |
+| **Gewoon schriftmos** | *Graphis scripta* | Zwarte 'hiërogliefen'. | Gladde bast (Hazelaar/Es) in vochtige bosdelen. |
+| **Groot dooiermos** | *Xanthoria parietina* | Fel oranje; stikstofindicator. | Zonnige kant boomstammen en houten brugleuning. |
+| **Eikenmos** | *Evernia prunastri* | Lintvormig; wit van onder. | Stammen vrijstaande eiken; vaak op gevallen takken. |
+| **Gewoon schildmos** | *Parmelia sulcata* | Blauwgrijs met wit netwerk. | Vrijstaande stammen langs het pad (ooghoogte). |
+| **Melig takmos** | *Ramalina farinacea* | Smalle, stijve grijze lintjes. | Dunnere takken in de kruin (zoek op de grond!). |
+| **Gewone poederkorst**| *Lepraria incana* | Mintgroen poeder. | Noordzijde oude eiken (droge nissen/regenschaduw). |
+| **Bosschildmos** | *Flavoparmelia caperata*| Grote, geelgroene rimpelplaten. | Oudere eiken in de boskern. |
+| **Houtschotelkorst** | *Lecanora symmicta* | Grijsgeel; pionier. | Direct op het hout van de houten brug. |
+| **Kapjesvingermos** | *Physcia adscendens* | Grijs met lange 'wimpers'. | Takken en houten hekken aan de bosrand. |
+| **Heidestaartje** | *Cladonia floerkeana* | Grijze staafjes, rode knopjes. | Open zandgrond of vermolmd hout (stronken). |
+
+
+
+
+
 
 ---
 ## Geografische en Ecologische Context
