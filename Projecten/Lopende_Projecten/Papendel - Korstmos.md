@@ -2,7 +2,7 @@
 
 ### 1. Kernconcept: Wat is een korstmos?
 
-* **Symbiose:** Geen plant, maar een "huwelijk" tussen een schimmel (het huis) en een alg (de kok).
+* **Symbiose:** Geen plant, maar een "huwelijk" tussen een schimmel (het huis) en een alg (de kok). Eerder gevangenis..
 * **Metabolisme:** Poikilohydrisch (kunnen volledig uitdrogen en weer activeren bij vocht).
 Algenlaag moet zonlicht krijgen -> kan enkel wanneer schimmel transparant genoeg is.
 * **Voeding:** Halen alles (water, mineralen, CO2) uit de lucht; gebruiken hout enkel als steun.
