@@ -39,7 +39,27 @@
 * **De Stikstof-thermometer:** Hoe meer geel op de brug, hoe meer stikstof in Papendel.
 * **De Vensterkijker:** Met een gaatje in een kaartje focussen op de details.
 
+## 8. Scenario Gidsmoment: De Houten Brug (10 min)
 
+### STAP 1: De Kennismaking (Kernconcept & Bouw)
+* **Wat is het?** Leg de symbiose uit (Schimmel = Huis, Alg = Kok). 
+* **De Lasagne (A4-foto):** Toon de gelaagde opbouw. Leg uit dat de alg licht nodig heeft en de schimmel bescherming biedt.
+* **De Natte Verrassing:** Besproei een droog, grijs korstmos. Zie het live groen worden -> De alg "ontwaakt".
+
+### STAP 2: Herkenning (Vormen op de brug)
+* **De 3 Groeivormen:**
+    1. **Korst:** Zit vast aan het hout (pioniers op de brug).
+    2. **Blad:** Heeft lobjes die je kunt optillen (Schildmossen).
+    3. **Struik:** Staat rechtop of hangt (Eikenmos - vaak zeldzamer op de brug zelf).
+* **Didactisch:** Gebruik de "Vensterkijker" om mensen naar één specifiek individu te laten kijken.
+
+### STAP 3: Het Verhaal (Bio-indicatie & Kleur)
+* **De Stikstof-thermometer:** Wijs op het oranje Groot dooiermos. Veel oranje = hoge pH door stikstof (ammoniak).
+* **Zonnebrandcrème:** Leg uit waarom de bovenkant van de leuning oranje is en de zijkant groen (Pariëtine pigment).
+
+### STAP 4: Afsluiting (Voortplanting & Spons)
+* **De Spons-proef:** Laat met een witte zakdoek zien dat korstmossen alles uit de lucht filteren (geen waslaag). 
+* **Toekomst:** Vertel dat deze pioniers op de brug de weg vrijmaken voor grotere mossen over 10-20 jaar.
 
 
 
