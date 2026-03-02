@@ -1,5 +1,49 @@
 # Project: De Lichenen van Papendel
 
+### 1. Kernconcept: Wat is een korstmos?
+* **Symbiose:** Geen plant, maar een "huwelijk" tussen een schimmel (het huis) en een alg (de kok).
+* **Metabolisme:** Poikilohydrisch (kunnen volledig uitdrogen en weer activeren bij vocht).
+                   Algenlaag moet zonlicht krijgen -> kan enkel wanneer schimmel transparant genoeg is.
+* **Voeding:** Halen alles (water, mineralen, CO2) uit de lucht; gebruiken hout enkel als steun.
+                Absorbtie - Geen beschermende waslaag - volledige opp is exposed
+
+#### De Opbouw (De 'Lasagne'):
+* **Bovenste schorslaag:** De stevige 'dakpannen' van schimmeldraden die de alg beschermen tegen uv-straling en vraat.
+* **Algenlaag:** De groene 'keuken' vlak onder het oppervlak, waar suikers worden geproduceerd via fotosynthese.
+* **Merglaag (Medulla):** Een luchtige laag schimmeldraden (vergelijkbaar met isolatiewol) voor opslag van vocht en gassen.
+* **Onderste schorslaag & Rizinen:** De basis van het korstmos, vaak voorzien van kleine 'ankers' (rizijnen) om zich aan de brug of schors te hechten.
+
+### 2. De Locatie: Papendel & De Houten Brug
+* **Substraat:** De jonge houten brug toont pionierssoorten.
+* **Groeivormen:** Vooral korstvormig; struikvormige soorten ontbreken vaak door jonge leeftijd hout.
+* **Microklimaat:** Nabijheid Begijnenbeek zorgt voor de nodige luchtvochtigheid.
+
+### 3. De "Key" tot succes: Zuurtegraad (pH)
+* **Gradiënt:** Stikstof (ammoniak) verhoogt de pH van het van nature zure hout.
+* **Effect:** Nitrofiele (stikstofminnende) soorten nemen de brug over.
+
+### 4. Korstmossen als Bio-indicatoren
+* **Groot dooiermos:** Oranje = Veel stikstof (landbouw/verkeer).
+* **Houtschotelkorst:** De typische pionier op hout.
+* **Eikenmos:** Indicator voor een betere luchtkwaliteit (heeft tijd nodig).
+
+### 5. Adaptatie: De "Zonnebrandcrème"
+* **Pariëtine:** Oranje pigment beschermt tegen UV. Op zonnige plekken fel oranje, in schaduw grijsgroen.
+
+### 6. Voortplanting
+* **Seksueel:** Via apothecia (schoteltjes).
+* **Aseksueel:** Via sorediën (kant-en-klare pakketjes schimmel+alg).
+
+### 7. Didactische Werkvormen
+* **De Natte Verrassing:** Met plantenspuit de alg direct zichtbaar maken (grijs wordt groen).
+* **De Stikstof-thermometer:** Hoe meer geel op de brug, hoe meer stikstof in Papendel.
+* **De Vensterkijker:** Met een gaatje in een kaartje focussen op de details.
+
+
+
+
+
+
 ## Geografische en Ecologische Context
 
 
